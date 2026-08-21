@@ -1,3 +1,8 @@
 body{
     text-align: center;
 }
+.dark_mode{
+    background-color: black;
+    color: white;
+    
+}
