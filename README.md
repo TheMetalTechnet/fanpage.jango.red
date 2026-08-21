@@ -1,2 +1,2 @@
 # themetaltechnet.github.io
-GitHub Sites test
+GitHub Pages test
